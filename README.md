@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on yuniteapi-java-wrapper<br>🌱 I’m currently learning Gin Web Framework<br>📫 How to reach me info@ale1x.com
+🔭 I’m currently working on yuniteapi-java-wrapper<br>🌱 I’m currently learning Gin Web Framework<br>📫 How to reach me alessandro@passarelli.dev
 
 
 ## 🌐 Socials:
