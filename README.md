@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TelloEDU-java-sdkbr>🌱 I’m currently learning Rust Language!<br>📫 How to reach me alessandro@passarelli.dev
+🔭 I’m currently working on TelloEDU-java-sdk<br>🌱 I’m currently learning Rust Language!<br>📫 How to reach me alessandro@passarelli.dev
 
 
 ## 🌐 Socials:
