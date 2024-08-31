@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TelloEDU-java-sdk<br>🌱 I’m currently learning Rust Language!<br>📫 How to reach me alessandro@passarelli.dev
+🔭 I’m currently working on Micro SaaS Projects<br>🌱 I’m currently learning NextJS!<br>📫 How to reach me alessandro@passarelli.dev
 
 
 ## 🌐 Socials:
